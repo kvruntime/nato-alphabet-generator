@@ -5,3 +5,6 @@ from natoprogram.app import App
 gui = App()
 gui.run()
 
+# ng = NatoGenerator()
+
+# print(ng.nato_phonetic)
