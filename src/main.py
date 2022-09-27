@@ -1,4 +1,4 @@
-from natoprogram.app import App
+from natoapp.app import App
 
 # csle = NatoProgramConsole()
 # csle.run()

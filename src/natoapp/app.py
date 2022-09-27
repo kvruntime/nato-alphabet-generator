@@ -3,7 +3,7 @@ from typing import Dict
 
 from PyQt6.QtWidgets import QApplication
 
-from natoprogram.viewmodels import NatoGeneratoViewModel
+from natoapp.viewmodels import NatoGeneratoViewModel
 
 class App(QApplication):
     def __init__(self):

@@ -1,6 +1,6 @@
 from typing import List
-from natoprogram.pages import PageMain
-from natoprogram.datalayers import NatoGenerator
+from natoapp.pages import PageMain
+from natoapp.datalayers import NatoGenerator
 from PyQt6.QtWidgets import QLabel
 from PyQt6.QtCore import Qt
 
